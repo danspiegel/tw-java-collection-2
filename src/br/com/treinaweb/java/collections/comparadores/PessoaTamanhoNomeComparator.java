@@ -1,4 +1,4 @@
-package br.comltreinaweb.java.collections.comparadores;
+package br.com.treinaweb.java.collections.comparadores;
 
 import java.util.Comparator;
 

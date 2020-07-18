@@ -8,8 +8,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 
+import br.com.treinaweb.java.collections.comparadores.PessoaTamanhoNomeComparator;
 import br.com.treinaweb.java.collections.models.Pessoa;
-import br.comltreinaweb.java.collections.comparadores.PessoaTamanhoNomeComparator;
 
 public class Main {
 
